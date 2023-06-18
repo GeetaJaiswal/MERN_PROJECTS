@@ -1,0 +1,13 @@
+.editIcon {
+    color: blue;
+}
+
+.delIcon {
+    color: red;
+}
+
+.para:first-letter {
+    font-weight: 600;
+    font-size: 30px;
+    margin-right: 3px;
+}

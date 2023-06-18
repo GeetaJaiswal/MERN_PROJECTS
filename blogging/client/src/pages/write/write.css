@@ -1,0 +1,7 @@
+.plus-icon {
+    font-size: 35px;
+}
+
+.textarea:focus, input:focus {
+    outline: none;
+}

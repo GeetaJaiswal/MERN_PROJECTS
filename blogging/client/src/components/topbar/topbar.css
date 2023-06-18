@@ -1,0 +1,21 @@
+.topbar {
+    width: 100%;
+    /* height: 50px; */
+    background-color: chocolate;
+    color: #fff;
+}
+
+.topCenter li{
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.nav {
+    color: inherit;
+    text-decoration: none;
+}
+
+.nav:hover {
+    color: inherit;
+}
